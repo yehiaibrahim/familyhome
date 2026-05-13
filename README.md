@@ -1,0 +1,1 @@
+A project for automating repetitive tasks for our family business
